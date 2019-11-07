@@ -1,0 +1,9 @@
+.parentDiv {
+    float: left;
+    /* position: absolute; */
+}
+
+.logoCart {
+    width: 10px;
+    height: 10px;
+}
